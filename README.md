@@ -26,6 +26,18 @@
 Recommend travel places based on categories,Budget using python libraries & django 
 Link:https://github.com/abhay1765/AI_travel_recommender_
 
+# 👾Tick Tac Toe Game
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anujbartwal600/anujbartwal600/main/TicTacToe2026-05-3016-43-53-ezgif.com-video-to-gif-converter.gif" width="800">
+</p>
+
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anujbartwal600/anujbartwal600/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
