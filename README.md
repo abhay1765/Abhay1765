@@ -16,7 +16,7 @@
 
 - 🤝Looking to collaborate on AI/ML & Django projects
 
-- 💬Ask me about Python,Machine learning,Django,skylearn
+- 💬Ask me about Python,Machine learning,Django
 
 - 📫 reach me at : **abhayk7611@gmail.com**
 
