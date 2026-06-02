@@ -7,7 +7,7 @@
 
 # 🚀 About me
 
--👨‍💻 I have 6 month AIML training in Thinknextpvt.limited
+- 👨‍💻 I have done 6 month AIML training in Thinknextpvt.limited
 
 - 🔭 I’m currently working on Project **AI and Machine learning projects**
 
