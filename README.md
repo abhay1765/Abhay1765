@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on Project **AI and Machine learning projects**
 
-- 🌱  currently learning **Deep learning & Model deploment**
+- 🌱  currently learning **Deep learning & Model deployment**
 
 - 🤝Looking to collaborate on AI/ML & Django projects
 
