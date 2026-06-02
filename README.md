@@ -23,10 +23,13 @@
 ## 🧳AI Travel recommendation system
 Recommend travel places based on categories,Budget using python libraries & django 
 Link:https://github.com/abhay1765/AI_travel_recommender_
+
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.topcoder.com/members/16003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="16003" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/ab-hay-376a751a5/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abhay LinkedIn" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
