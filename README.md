@@ -11,7 +11,7 @@
 
 - 🌱  currently learning **Deep learning & Model deployment**
 
-- 🔭 Also working on Project **AI and Machine learning projects**
+- 🔭 Also working on **AI and Machine learning projects**
 
 - 🤝Looking to collaborate on AI/ML & Django projects
 
