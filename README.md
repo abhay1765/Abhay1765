@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/62515b50-969e-4a45-bb04-23363b98d305" width="1600" height="900" alt="Banner Image" />
+<img src="https://github.com/user-attachments/assets/518dd6c1-b2fc-4741-bce3-ecfa9db5272b" width="1000" height="300" alt="Banner Image" />
 
 <h1 align="center">Hi 👋, I'm Abhay</h1>
 <h3 align="center">A passionate AIML Engineer from India</h3>
