@@ -29,7 +29,7 @@ Recommend travel places based on categories,Budget using python libraries & djan
 Link:https://github.com/abhay1765/AI_travel_recommender_
 
 # 📄 Artificial Portfolio
-Link:https://abhay1765.github.io/About-me.github.io/
+Link: https://abhay1765.github.io/About-me.github.io/
 
 
 # 👾Tick Tac Toe Game
